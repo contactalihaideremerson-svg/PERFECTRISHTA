@@ -6,7 +6,7 @@
         <!-- Heading -->
         <div class="text-center mb-16">
             <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                About Perfect Rishta
+                About Perfect Rishta.ONLINE
             </h2>
 
             <p class="mt-4 text-xl text-gray-600 max-w-2xl mx-auto">
