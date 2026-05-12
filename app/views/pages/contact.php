@@ -1,4 +1,4 @@
-
+<?php require APPROOT . '/views/inc/header.php'; ?>
 <div class="bg-gray-50 py-20">
     <div class="max-w-4xl mx-auto px-4">
         <div class="bg-white rounded-3xl shadow-sm border border-gray-100 overflow-hidden">
